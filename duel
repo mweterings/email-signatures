@@ -1,0 +1,43 @@
+<mjml>
+  <mj-body>
+    <mj-section padding-bottom="10px" padding-left="10px" padding-right="10px">
+      <mj-column>
+        <mj-image src="https://fakeimg.pl/200x50/282828/eae0d0/?retina=1&text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&font=noto" padding-bottom="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-divider border-width="2px" border-style="solid" border-color="#50E3C2" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding-left="10px" padding-right="10px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#50E3C2" padding-top="0" padding-bottom="2px" font-family="helvetica">Studio Duel</mj-text>
+        <mj-text font-size="16px" color="#000000" padding-top="0" line-height="20px" font-family="helvetica">Dr. Lelykade 50k, 2583 CM Den Haag</mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#50E3C2" padding-top="0" padding-bottom="0" font-family="helvetica">
+          Contact
+        </mj-text>
+
+        <mj-text font-size="16px" color="#000000" padding-top="0" line-height="20px" font-family="helvetica">
+          <a href="mailto:tom@studioduel.nl" style="color: #000; text-decoration: none;">tom@studioduel.nl</a><br />
+          <a href="https://www.studioduel.nl/" style="color: #000; text-decoration: none;">www.studioduel.nl</a><br />
+          <a href="tel:0707113045" style="color: #000; text-decoration: none;">070 711 30 45</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#50E3C2" padding-top="0" padding-bottom="2px" font-family="helvetica">Social</mj-text>
+
+        <mj-social font-size="15px" icon-size="20px" color="#000000" padding-top="0" icon-padding="5px" border-radius="40px" inner-padding="5px" align="left" mode="horizontal">
+          <mj-social-element name="facebook" href="#" background-color="#000000"></mj-social-element>
+          <mj-social-element name="instagram" href="#" background-color="#000000"></mj-social-element>
+          <mj-social-element name="twitter"  href="#" background-color="#000000"></mj-social-element>
+        </mj-social>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
